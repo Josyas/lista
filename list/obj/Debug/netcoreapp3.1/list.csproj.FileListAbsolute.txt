@@ -1,0 +1,27 @@
+D:\VisualStudioProjetos\list\list\bin\Debug\netcoreapp3.1\list.exe
+D:\VisualStudioProjetos\list\list\bin\Debug\netcoreapp3.1\list.deps.json
+D:\VisualStudioProjetos\list\list\bin\Debug\netcoreapp3.1\list.runtimeconfig.json
+D:\VisualStudioProjetos\list\list\bin\Debug\netcoreapp3.1\list.runtimeconfig.dev.json
+D:\VisualStudioProjetos\list\list\bin\Debug\netcoreapp3.1\list.dll
+D:\VisualStudioProjetos\list\list\bin\Debug\netcoreapp3.1\list.pdb
+D:\VisualStudioProjetos\list\list\obj\Debug\netcoreapp3.1\list.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\list\list\obj\Debug\netcoreapp3.1\list.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\list\list\obj\Debug\netcoreapp3.1\list.AssemblyInfo.cs
+D:\VisualStudioProjetos\list\list\obj\Debug\netcoreapp3.1\list.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\list\list\obj\Debug\netcoreapp3.1\list.dll
+D:\VisualStudioProjetos\list\list\obj\Debug\netcoreapp3.1\list.pdb
+D:\VisualStudioProjetos\list\list\obj\Debug\netcoreapp3.1\list.genruntimeconfig.cache
+D:\VisualStudioProjetos\list manda para o git\list\bin\Debug\netcoreapp3.1\list.exe
+D:\VisualStudioProjetos\list manda para o git\list\bin\Debug\netcoreapp3.1\list.deps.json
+D:\VisualStudioProjetos\list manda para o git\list\bin\Debug\netcoreapp3.1\list.runtimeconfig.json
+D:\VisualStudioProjetos\list manda para o git\list\bin\Debug\netcoreapp3.1\list.runtimeconfig.dev.json
+D:\VisualStudioProjetos\list manda para o git\list\bin\Debug\netcoreapp3.1\list.dll
+D:\VisualStudioProjetos\list manda para o git\list\bin\Debug\netcoreapp3.1\list.pdb
+D:\VisualStudioProjetos\list manda para o git\list\obj\Debug\netcoreapp3.1\list.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\list manda para o git\list\obj\Debug\netcoreapp3.1\list.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjetos\list manda para o git\list\obj\Debug\netcoreapp3.1\list.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\list manda para o git\list\obj\Debug\netcoreapp3.1\list.AssemblyInfo.cs
+D:\VisualStudioProjetos\list manda para o git\list\obj\Debug\netcoreapp3.1\list.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\list manda para o git\list\obj\Debug\netcoreapp3.1\list.dll
+D:\VisualStudioProjetos\list manda para o git\list\obj\Debug\netcoreapp3.1\list.pdb
+D:\VisualStudioProjetos\list manda para o git\list\obj\Debug\netcoreapp3.1\list.genruntimeconfig.cache
